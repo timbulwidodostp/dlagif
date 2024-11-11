@@ -1,5 +1,5 @@
-d 'DEA': Data envelopment analysis
+d 'dlagif': Irving fisher arithmetic distributed lag model Use dlagif With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f dlagif.ado
+f dlagif.dlg
+f dlagif.sthlp
