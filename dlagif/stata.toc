@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p dlagif Irving fisher arithmetic distributed lag model Use dlagif With STATA 18
