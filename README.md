@@ -1,6 +1,8 @@
 # dlagif
 Irving fisher arithmetic distributed lag model Use dlagif With STATA 18
 
+https://www.youtube.com/watch?v=HUBKgAhZgsQ
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
